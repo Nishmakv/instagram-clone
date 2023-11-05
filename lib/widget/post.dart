@@ -31,7 +31,7 @@ class _PostWidgetState extends State<PostWidget> {
                         'assets/images/WhatsApp Image 2023-09-12 at 10.19.22 AM.jpeg'),
                   ),
                   title: Text(
-                    '_kaju_kads',
+                    '_kaju_',
                     style: TextStyle(
                       fontSize: 15,
                       fontWeight: FontWeight.bold,
